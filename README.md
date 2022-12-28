@@ -47,7 +47,7 @@ f = txt.replace("H","J")
 print(f"Menganti karakter H dengan J = {f}")
 ~~~
 
-![image](screenshot/Screenshot%20(16).png)
+![image](Screenshot/Screenshot%20(16).png)
 
 
 
@@ -73,7 +73,7 @@ print(txt.format(umur))
 
 
 
-![image](screenshot/Screenshot%20(17).png)
+![image](Screenshot/Screenshot%20(17).png)
 
 
 
